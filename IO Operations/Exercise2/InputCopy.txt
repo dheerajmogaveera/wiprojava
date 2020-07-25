@@ -1,0 +1,3 @@
+This is Input file for assignment.
+This file has some contents.
+The contents of this file is going to be copied to another file via java program.
