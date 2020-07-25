@@ -1,0 +1,1 @@
+ SELECT employee_id EMP#,last_name Employee,job_id Job,hire_date HireDate FROM employees;

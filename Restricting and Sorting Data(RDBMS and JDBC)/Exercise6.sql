@@ -1,0 +1,1 @@
+SELECT last_name "Employee",salary "Monthly Salary" FROM employees WHERE department_id IN (20,50) AND salary BETWEEN 5000 AND 12000;
